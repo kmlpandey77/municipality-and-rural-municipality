@@ -7,39 +7,39 @@
         "localbody": [
           {
             "name": "फुङ्लिङ नगरपालिका",
-            "wardNO": 11
+            "totalWard": 11
           },
           {
             "name": "आठराई त्रिवेणी गाउँपालिका",
-            "wardNO": 5
+            "totalWard": 5
           },
           {
             "name": "सिदिङ्ग्वा गाउँपालिका",
-            "wardNO": 7
+            "totalWard": 7
           },
           {
             "name": "फक्ताङलुङ गाउँपालिका",
-            "wardNO": 7
+            "totalWard": 7
           },
           {
             "name": "मिक्वाखोला गाउँपालिका",
-            "wardNO": 5
+            "totalWard": 5
           },
           {
             "name": "मेरिङ्देन गाउँपालिका",
-            "wardNO": 6
+            "totalWard": 6
           },
           {
             "name": "मैवाखोला गाउँपालिका",
-            "wardNO": 6
+            "totalWard": 6
           },
           {
             "name": "याङ्वरक गाउँपालिका",
-            "wardNO": 6
+            "totalWard": 6
           },
           {
             "name": "सिरिजङ्गा गाउँपालिका",
-            "wardNO": 8
+            "totalWard": 8
           }
         ]
       },
