@@ -1,7 +1,7 @@
 [
   {
     "name": "प्रदेश ०१",
-    "district": [
+    "districts": [
       {
         "name": "ताप्लेजुङ्ग",
         "localbody": [
@@ -42,25 +42,341 @@
             "wardNO": 8
           }
         ]
+      },
+      {
+        "name": "पाँचथर",
+        "localbody": []
+      },
+      {
+        "name": "इलाम",
+        "localbody": []
+      },
+      {
+        "name": "झापा",
+        "localbody": []
+      },
+      {
+        "name": "मोरङ्ग",
+        "localbody": []
+      },
+      {
+        "name": "सुनसरी",
+        "localbody": []
+      },
+      {
+        "name": "धनकुटा",
+        "localbody": []
+      },
+      {
+        "name": "तेह्रथुम",
+        "localbody": []
+      },
+      {
+        "name": "संखुवासभा",
+        "localbody": []
+      },
+      {
+        "name": "भोजपुर",
+        "localbody": []
+      },
+      {
+        "name": "सोलुखुम्बु",
+        "localbody": []
+      },
+      {
+        "name": "ओखलढुङ्गा",
+        "localbody": []
+      },
+      {
+        "name": "खोटाङ्ग",
+        "localbody": []
+      },
+      {
+        "name": "उदयपुर",
+        "localbody": []
       }
     ]
   },
   {
-    "name": "मधेश प्रदेश"
+    "name": "मधेश प्रदेश",
+    "districts": [
+      {
+        "name": "सप्तरी",
+        "localbody": []
+      },
+      {
+        "name": "सिरहा",
+        "localbody": []
+      },
+      {
+        "name": "धनुषा",
+        "localbody": []
+      },
+      {
+        "name": "महोत्तरी",
+        "localbody": []
+      },
+      {
+        "name": "सर्लाही",
+        "localbody": []
+      },
+      {
+        "name": "रौतहट",
+        "localbody": []
+      },
+      {
+        "name": "बारा",
+        "localbody": []
+      },
+      {
+        "name": "पर्सा",
+        "localbody": []
+      }
+    ]
   },
   {
-    "name": "बागमती प्रदेश"
+    "name": "बागमती प्रदेश",
+    "districts": [
+      {
+        "name": "सिन्धुली",
+        "localbody": []
+      },
+      {
+        "name": "रामेछाप",
+        "localbody": []
+      },
+      {
+        "name": "दोलखा",
+        "localbody": []
+      },
+      {
+        "name": "सिन्धुपाल्चोक",
+        "localbody": []
+      },
+      {
+        "name": "काभ्रेपलाञ्चोक",
+        "localbody": []
+      },
+      {
+        "name": "ललितपुर",
+        "localbody": []
+      },
+      {
+        "name": "भक्तपुर",
+        "localbody": []
+      },
+      {
+        "name": "काठमाण्डौं",
+        "localbody": []
+      },
+      {
+        "name": "रसुवा",
+        "localbody": []
+      },
+      {
+        "name": "नुवाकोट",
+        "localbody": []
+      },
+      {
+        "name": "धादिङ्ग",
+        "localbody": []
+      },
+      {
+        "name": "मकवानपुर",
+        "localbody": []
+      },
+      {
+        "name": "चितवन",
+        "localbody": []
+      }
+    ]
   },
   {
-    "name": "गण्डकी प्रदेश"
+    "name": "गण्डकी प्रदेश",
+    "districts": [
+      {
+        "name": "गोरखा",
+        "localbody": []
+      },
+      {
+        "name": "लमजुङ्ग",
+        "localbody": []
+      },
+      {
+        "name": "तनहुँ",
+        "localbody": []
+      },
+      {
+        "name": "स्याङ्गजा",
+        "localbody": []
+      },
+      {
+        "name": "कास्की",
+        "localbody": []
+      },
+      {
+        "name": "मनाङ्ग",
+        "localbody": []
+      },
+      {
+        "name": "मुस्ताङ्ग",
+        "localbody": []
+      },
+      {
+        "name": "म्याग्दी",
+        "localbody": []
+      },
+      {
+        "name": "पर्वत",
+        "localbody": []
+      },
+      {
+        "name": "बागलुङ्ग",
+        "localbody": []
+      },
+      {
+        "name": "नवलपरासी (बर्दघाट सुस्ता पूर्व)",
+        "localbody": []
+      }
+    ]
   },
   {
-    "name": "लुम्बिनी प्रदेश"
+    "name": "लुम्बिनी प्रदेश",
+    "districts": [
+      {
+        "name": "गुल्मी",
+        "localbody": []
+      },
+      {
+        "name": "पाल्पा",
+        "localbody": []
+      },
+      {
+        "name": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+        "localbody": []
+      },
+      {
+        "name": "रुपन्देही",
+        "localbody": []
+      },
+      {
+        "name": "कपिलवस्तु",
+        "localbody": []
+      },
+      {
+        "name": "अर्घाखाँची",
+        "localbody": []
+      },
+      {
+        "name": "प्युठान",
+        "localbody": []
+      },
+      {
+        "name": "रोल्पा",
+        "localbody": []
+      },
+      {
+        "name": "रुकुम (पूर्व)",
+        "localbody": []
+      },
+      {
+        "name": "दाङ्ग",
+        "localbody": []
+      },
+      {
+        "name": "बाँके",
+        "localbody": []
+      },
+      {
+        "name": "बर्दिया",
+        "localbody": []
+      }
+    ]
   },
   {
-    "name": "कर्णाली प्रदेश"
+    "name": "कर्णाली प्रदेश",
+    "districts": [
+      {
+        "name": "सल्यान",
+        "localbody": []
+      },
+      {
+        "name": "रुकुम (पश्चिम)",
+        "localbody": []
+      },
+      {
+        "name": "सुर्खेत",
+        "localbody": []
+      },
+      {
+        "name": "दैलेख",
+        "localbody": []
+      },
+      {
+        "name": "जाजरकोट",
+        "localbody": []
+      },
+      {
+        "name": "डोल्पा",
+        "localbody": []
+      },
+      {
+        "name": "जुम्ला",
+        "localbody": []
+      },
+      {
+        "name": "कालिकोट",
+        "localbody": []
+      },
+      {
+        "name": "मुगु",
+        "localbody": []
+      },
+      {
+        "name": "हुम्ला",
+        "localbody": []
+      }
+    ]
   },
   {
-    "name": "सुदूरपश्चिम प्रदेश"
+    "name": "सुदूरपश्चिम प्रदेश",
+    "districts": [
+      {
+        "name": "बाजुरा",
+        "localbody": []
+      },
+      {
+        "name": "बझाङ्ग",
+        "localbody": []
+      },
+      {
+        "name": "अछाम",
+        "localbody": []
+      },
+      {
+        "name": "डोटी",
+        "localbody": []
+      },
+      {
+        "name": "कैलाली",
+        "localbody": []
+      },
+      {
+        "name": "कञ्चनपुर",
+        "localbody": []
+      },
+      {
+        "name": "डडेल्धुरा",
+        "localbody": []
+      },
+      {
+        "name": "बैतडी",
+        "localbody": []
+      },
+      {
+        "name": "दार्चुला",
+        "localbody": []
+      }
+    ]
   }
 ]
