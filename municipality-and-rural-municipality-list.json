@@ -1,0 +1,14 @@
+{
+  "name": "Pradesh 01",
+  "district": [
+    {
+      "name": "abc",
+      "localbody": [
+        {
+          "name": "nagar",
+          "wardNO": 15
+        }
+      ]
+    }
+  ]
+}
